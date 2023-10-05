@@ -1,0 +1,20 @@
+Name and Position of Employees who have worked for 7 consecutive days:
+Sparks Kewwemh  , PositionID= WFS000101
+Siwgh Jaspreem  , PositionID= WFS000424
+Cereira Jr Jese  , PositionID= WFS000456
+Gaewdia Jaaw Carxes  , PositionID= WFS000473
+---------------------------------------------------------------------------------------
+Name and Position of employees who have less than 10 hours of time between shifts but greater than 1 hour:
+Camaxawe Ceghaw  , PositionID= WFS000153
+Xee Xacar  , PositionID= WFS000200
+Payaw Dawiex  , PositionID= WFS000368
+Cereira Jr Jese  , PositionID= WFS000456
+Perkiws Marrawce  , PositionID= WFS000469
+Cemma Jessica  , PositionID= WFS000503
+Caragixxa Awmhewy  , PositionID= WFS000514
+Dexgadixxe Redarme Chrismiaw S  , PositionID= WFS000523
+Hacixmew Deawme Devew  , PositionID= WFS000536
+---------------------------------------------------------------------------------------
+Name and position of employees who have worked for more than 14 hours in a single shift:
+Dexgadixxe Redarme Chrismiaw S  , PositionID= WFS000523
+---------------------------------------------------------------------------------------
