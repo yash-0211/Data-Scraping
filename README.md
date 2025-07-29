@@ -1,4 +1,4 @@
-# Bluejay-Delivery-Assignment
+# Web data Scraping using Python
 ### Aim
 Programmatically analyze the file and print in console the name and position of employees-  
 a) who has worked for 7 consecutive days.  
